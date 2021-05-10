@@ -5,6 +5,7 @@
         "main_address":""
     },
     "setting":{
+        "NETWORK":"testnet or mainnet",
         "token_asset":"you token coin",
         "Alert_admin_if_bch_down_satoshi":10000,
         "Alert_admin_if_token_down":10000
